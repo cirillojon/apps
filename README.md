@@ -1,6 +1,6 @@
 # Simple C++ Application 
 
-This is a work in progress app that I am using to learn C++.
+This is a work in progress app that I am building to learn more about C++
 
 ## MainForm
 
