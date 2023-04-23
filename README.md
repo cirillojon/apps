@@ -1,6 +1,6 @@
-# Simple C++ Application with Windows Forms
+# Simple C++ Application 
 
-This is a work in progres app, that I am using to learn C++ for building desktop applications with Visual Studio
+This is a work in progress app that I am using to learn C++.
 
 ## MainForm
 
