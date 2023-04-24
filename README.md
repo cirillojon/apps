@@ -2,7 +2,7 @@
 
 This is a work in progress app that I am building to learn more about C++
 
-## MainForm
+## Main Form
 
 The `MainForm` is the primary window of the application, and it contains two buttons:
 - **Calculator**: Opens the `CalculatorForm` when clicked.
@@ -14,7 +14,7 @@ Here's a brief overview of the `MainForm` class:
 2. Event handlers are set up for button clicks.
 3. The `CalculatorButton_Click` method creates an instance of `CalculatorForm` and opens it using `ShowDialog()`.
 
-## CalculatorForm
+## Calculator Form
 
 The `CalculatorForm` is a simple calculator application that allows the user to add two numbers.
 
