@@ -1,0 +1,3 @@
+C:\Users\Jonat\OneDrive\Documents\GitHub\cpp-app\apps\Debug\apps.vcxproj.AssemblyReference.cache
+C:\Users\Jonat\OneDrive\Documents\GitHub\cpp-app\apps\Debug\apps.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jonat\OneDrive\Documents\GitHub\cpp-app\apps\Debug\apps.exe
